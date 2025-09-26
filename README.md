@@ -261,5 +261,3 @@ tagram =E2=80=A2 X</div>
 
  =20
 
-</div><br><br><div dir=3D"ltr">Sent from my iPhone</div></body></html>
---Apple-Mail-02C2AF3F-1900-492F-871B-D10CC9681CF0--
